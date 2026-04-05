@@ -38,7 +38,7 @@
 <h2 style="text-indent: 2em; text-decoration: underline;">เนื้อหาที่ได้รับ</h2>
 1. รู้จักคำสั่งพื้นฐานสำหรับการตรวจสอบชุดข้อมูลว่ามีลักษณะอย่างไร เช่น จำนวนมิติ รูปแบบคำตอบ จำนวนข้อมูล ชนิดของข้อมูล เพื่อสามารถกำหนดโครงสร้างของโมเดลในการเรียนรู้ให้เหมาะสม
 กับข้อมูลที่นำเข้ามา <a href="Lab1.ipynb"> LAB 1 </a>
-<br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปของเวกเตอร์หรือโครงสร้างข้อมูลที่โมเดลสามารถอ่านได้ <a href="Lab2.1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2.2.ipynb"> LAB 2.2 </a>
+<br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปของเวกเตอร์หรือโครงสร้างข้อมูลที่โมเดลสามารถอ่านได้ <a href="Lab2_1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
 <br>3. เข้าใจแก่นหลักของ Deep Learning ว่าโครงสร้างของโมเดลมีลักษณะเป็นอย่างไร weight หมายถึงอะไร การคำนวณของโมเดลมีขั้นตอนอย่างไร <a href="Lab3.ipynb"> LAB 3 </a>
 <br>4. ทราบถึงขั้นตอนการสร้างคอมไพรเลอร์ รวมถึงการ train หรือฝึกโมเดล ว่าต้องสังเกตุค่าอะไรบ้าง accuracy กับ loss มีความสำคัญกับการประเมินผลลัพธ์ของโมเดลอย่างไร <a href="Lab5.ipynb"> LAB 5 </a>
 <br>5. เข้าใจปัญหาของโมเดลที่เก่งเกินไป ว่าการเกิด Overfitting หรือใช้ความจำมากกว่าความเข้าใจ รวมถึงโมเดลที่เล็กเกินไป จะเกิดการ Underfitting นั้นส่งผลต่อการทำนายอย่างไร <a href="Lab6.ipynb"> LAB 6 </a>
@@ -81,7 +81,7 @@ Additionally, the course covers model evaluation and improvement. Modifying or o
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Content Received</h2>
 1. Understand basic commands for inspecting datasets, including dimensions, label formats, data size, and data types, in order to design appropriate model structures <a href="Lab1.ipynb"> LAB 1 </a>
-<br>2. Understand the concept of “dimensions” in digital data and be able to transform data into vectors or formats that models can process <a href="Lab2.1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2.2.ipynb"> LAB 2.2 </a>
+<br>2. Understand the concept of “dimensions” in digital data and be able to transform data into vectors or formats that models can process <a href="Lab2_1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
 <br>3. Understand the fundamentals of Deep Learning, including model structure, the meaning of weights, and how computations are performed within a model <a href="Lab3.ipynb"> LAB 3 </a>
 <br>4. Learn the process of model compilation and training, including how to monitor key metrics such as accuracy and loss, and understand their importance in evaluating model performance <a href="Lab5.ipynb"> LAB 5 </a>
 <br>5. Understand the problems of overfitting (memorization over understanding) and underfitting (insufficient model capacity), and how they affect prediction performance <a href="Lab6.ipynb"> LAB 6 </a>
