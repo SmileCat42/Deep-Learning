@@ -69,27 +69,34 @@
 <a id="english"></a>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Project Objective</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;Since data structures such as Array, Stack, Queue, and LinkedList are not highly complex, the instructor would like students to gain a true understanding of them by expressing our knowledge through programming in Apache NetBeans. This method also serves as basic practice in using program. The project applying these structures to commonly used algorithms such as insertion, deletion, and searching, among others.
+&nbsp;&nbsp;&nbsp;&nbsp;This course focuses on understanding the learning behavior of models. Developers are expected to develop strong observation skills and the ability to adjust a model’s learning behavior to align with the given problem or dataset during training.
+The main objective is to enable the model to make accurate predictions. A key challenge is ensuring that the model avoids memorization and instead develops true understanding, which is the core principle of learning.
+Additionally, the course covers model evaluation and improvement. Modifying or optimizing model structures requires an understanding of model complexity and depth, which forms the foundation of what is known as Deep Learning.
 <br>
 <br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Content Received</h2>
-1. Understand how an array structure works, advantages and limitations
-<br>2. Learn how to access elements in array, including its constraints and the redundancy that may occur when using arrays in algorithms
-<br>3. Gain experience using various algorithms, and learn to import java.util.ArrayList to understand the differences between array and ArrayList
-<br>4. Enable students to analyze and choose the most appropriate algorithm to apply effectively with different types of array operations
+1. Understand basic commands for inspecting datasets, including dimensions, label formats, data size, and data types, in order to design appropriate model structures <a href="Lab1.ipynb"> LAB 1 </a>
+<br>2. Understand the concept of “dimensions” in digital data and be able to transform data into vectors or formats that models can process <a href="Lab2.1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2.2.ipynb"> LAB 2.2 </a>
+<br>3. Understand the fundamentals of Deep Learning, including model structure, the meaning of weights, and how computations are performed within a model <a href="Lab3.ipynb"> LAB 3 </a>
+<br>4. Learn the process of model compilation and training, including how to monitor key metrics such as accuracy and loss, and understand their importance in evaluating model performance <a href="Lab5.ipynb"> LAB 5 </a>
+<br>5. Understand the problems of overfitting (memorization over understanding) and underfitting (insufficient model capacity), and how they affect prediction performance <a href="Lab6.ipynb"> LAB 6 </a>
+<br>6. Be able to address insufficient validation data using techniques such as K-fold cross-validation <a href="Lab7.ipynb"> LAB 7 </a>
+<br>7. Understand how to appropriately configure the number of layers, neurons, and batch sizes to avoid overfitting and underfitting <a href="Lab8.ipynb"> LAB 8 </a>
+<br>8. Understand how CNNs, Max Pooling, and Flatten layers work, and why they are particularly effective for image-based tasks compared to traditional methods  <a href="Lab10.ipynb"> LAB 10 </a>
+<br>9. Understand data augmentation, why it is useful for small datasets, and how it increases data diversity  <a href="Lab13.ipynb"> LAB 13 </a>
+<br>10. Be able to utilize pre-trained models and apply them to new tasks without training from scratch  <a href="Lab13.ipynb"> LAB 13 </a>
+<br>11. Be able to design, analyze, and optimize models independently by applying knowledge from previous lessons, especially for image classification tasks in the final project <a href="FshionFinal.ipynb"> LAB Final </a>
 
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">Code Explanation</h2>
-📄<a href="src/CodeExplanation/GHarray.pdf" target="_blank">open report code explanation (Array)</a>
-<br>📄<a href="src/CodeExplanation/GHarraylist.pdf" target="_blank">open report code explanation (Array List)</a>
-<br><br>    **manually created
+<h2 style="text-indent: 2em; text-decoration: underline;">Note lecture</h2>
+📄<a href="Note4312.txt" target="_blank">Note 4312</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
-📄 <a href="src/CodeExplanation/exam2103.pdf" target="_blank">Exam</a><br>
-📄 <a href="src/score/score.pdf" target="_blank">Score all section</a>
+📄 <a href="DLScore4.png" target="_blank">Midterm</a><br>
+📄 <a href="src/score/score.pdf" target="_blank">Final</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
