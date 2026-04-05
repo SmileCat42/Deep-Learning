@@ -3,14 +3,16 @@
 การเรียนรู้เชิงลึก
 </p>
 
+![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DL1.png)
+
 <br><br>Training Model การฝึกฝนโมเดล Login Page<br>
-![Training](https://github.com/SmileCat42/Array-DataStructure-2103/blob/master/src/sc/03.png)
+![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DLTrain.png)
 
 <br><br>Accuracy & Adaptation ความแม่นยำและการปรับตัวให้เข้ากับชุดข้อมูล
-![](https://github.com/SmileCat42/Array-DataStructure-2103/blob/master/src/sc/MenuPage.png)
+![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLacc.png)
 
 <br><br>Predict การทำนาย
-![Predict](https://github.com/SmileCat42/Array-DataStructure-2103/blob/master/src/sc/ManagePage.png)
+![Predict](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DL2.png)
 
 <br><br>
 
