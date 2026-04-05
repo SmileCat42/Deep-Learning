@@ -6,7 +6,7 @@
 ![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DL1.png)
 
 <br><br>Training Model การฝึกฝนโมเดล Login Page<br>
-![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DLTrain.png)
+![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLTrain.png?raw=true)
 
 <br><br>Accuracy & Adaptation ความแม่นยำและการปรับตัวให้เข้ากับชุดข้อมูล
 ![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLacc.png)
@@ -49,24 +49,21 @@
 
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">การทำงานของอัลกอริทึม</h2>
-📄<a href="src/CodeExplanation/GHarray.pdf" target="_blank">ดูรายงานผลความเข้าใจผ่านการพิมพ์ (Array)</a>
-<br>📄<a href="src/CodeExplanation/GHarraylist.pdf" target="_blank">ดูรายงานผลความเข้าใจผ่านการพิมพ์ (Array List)</a>
-<br><br>    **พิมพ์มือเองทั้งหมด
+<h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
+📄<a href="src/CodeExplanation/GHarray.pdf" target="_blank">โน้ต 4312</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
-📄 <a href="src/CodeExplanation/exam2103.pdf" target="_blank">ข้อสอบ</a><br>
-📄 <a href="src/score/score.pdf" target="_blank">คะแนนทั้งระดับชั้น</a>
+📄 <a href="DLScore4.png" target="_blank">กลางภาค</a><br>
+📄 <a href="src/score/score.pdf" target="_blank">ปลายภาค</a>
 <br>
 <br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
-1. ติดตั้งโปรแกรม Apache Netbeans
-<br>2. ดาวน์โหลดโปรเจคนี้ลงเครื่อง (ปุ่ม CODE สีเขียว)
-<br>3. เปิดโปรแกรม Netbeans เลือกที่ File > Open Project เลือกไฟล์เป็นโปรเจคนี้ที่ดาวน์โหลดไว้
-<br>4. สังเกตุแถบซ้ายมือจะมีชื่อไฟล์ที่โหลดมาไอคอนถ้วยกาแฟ กดคลิ็กดรอปดาวน์ลงมา กดลงมาต่อที่ Source Packages กดลงมาต่อที่ projectarray (หรือกดที่ projectarray2 เพื่อดูฉบับอาเรย์ลิส)
-<br>5. คลิ๊กขวาที่ชื่อไฟล์ Login.java แล้วเลือก Run File
+1. ดาวน์โหลดไฟล์ LAB ที่สนใจลงเครื่องของท่าน (ปุ่ม CODE สีเขียว)
+<br>2. เปิดเว็ปเข้าลิงค์ [Colab](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
+<br>3. เลือกแถบ Upload แล้วเลือกไฟล์ที่ท่านโหลดไว้
+<br>4. กดปุ่ม play เพื่อรันโค้ดทีละส่วน หรือกด Run all เพื่อรันทั้งหมดอัตโนมัติ
 <br><br><br><br>
 
 <a id="english"></a>
