@@ -6,16 +6,16 @@
 ![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DL1.png)
 
 <br><br>Training Model การฝึกฝนโมเดล Login Page<br>
-![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLTrain.png?raw=true)
+![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/img/img/DLTrain.png?raw=true)
 
 <br><br>Accuracy & Adaptation ความแม่นยำและการปรับตัวให้เข้ากับชุดข้อมูล
-![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLacc.png)
+![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/img/DLacc.png)
 
 <br><br>Augmention การเจนโครงรูปใหม่
-![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLGen.png)
+![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/img/DLGen.png)
 
 <br><br>Predict การทำนาย
-![Predict](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DL2.png)
+![Predict](https://github.com/SmileCat42/Deep-Learning/blob/main/img/img/DL2.png)
 
 <br><br>
 
