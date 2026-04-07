@@ -38,19 +38,32 @@
 <br>
 <br>
 
-<h2 style="text-indent: 2em; text-decoration: underline;">เนื้อหาที่ได้รับ</h2>
-1. รู้จักคำสั่งพื้นฐานสำหรับการตรวจสอบชุดข้อมูลว่ามีลักษณะอย่างไร เช่น จำนวนมิติ รูปแบบคำตอบ จำนวนข้อมูล ชนิดของข้อมูล เพื่อสามารถกำหนดโครงสร้างของโมเดลในการเรียนรู้ให้เหมาะสม
-กับข้อมูลที่นำเข้ามา <a href="Lab1.ipynb"> LAB 1 </a>
-<br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปของเวกเตอร์หรือโครงสร้างข้อมูลที่โมเดลสามารถอ่านได้ <a href="Lab2_1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
-<br>3. เข้าใจแก่นหลักของ Deep Learning ว่าโครงสร้างของโมเดลมีลักษณะเป็นอย่างไร weight หมายถึงอะไร การคำนวณของโมเดลมีขั้นตอนอย่างไร <a href="Lab3.ipynb"> LAB 3 </a>
-<br>4. ทราบถึงขั้นตอนการสร้างคอมไพรเลอร์ รวมถึงการ train หรือฝึกโมเดล ว่าต้องสังเกตุค่าอะไรบ้าง accuracy กับ loss มีความสำคัญกับการประเมินผลลัพธ์ของโมเดลอย่างไร <a href="Lab5.ipynb"> LAB 5 </a>
-<br>5. เข้าใจปัญหาของโมเดลที่เก่งเกินไป ว่าการเกิด Overfitting หรือใช้ความจำมากกว่าความเข้าใจ รวมถึงโมเดลที่เล็กเกินไป จะเกิดการ Underfitting นั้นส่งผลต่อการทำนายอย่างไร <a href="Lab6.ipynb"> LAB 6 </a>
-<br>6. สามารถแก้ไขปัญหาข้อมูล validation ไม่เพียงพอ ได้ด้วยการทำ K-fold <a href="Lab7.ipynb"> LAB 7 </a>
-<br>7. เข้าใจถึงกลไกในการกำหนดจำนวนชั้น จำนวน neuron รวมถึง batch อย่างไรให้เหมาะสมกับชุดข้อมูล เพื่อหลีกเลี่ยงการเกิด Over/Underfitting <a href="Lab8.ipynb"> LAB 8 </a>
-<br>8. เข้าใจหลักการทำงานของ CNN, Maxpooling และ Flatten ว่ามีกระบวนการทำงานอย่างไร ใช้งานกับรูปภาพได้ดีเยี่ยมมากกว่าแบบปกติอย่างไร  <a href="Lab10.ipynb"> LAB 10 </a>
-<br>9. ทราบความหมายของ Augmention ว่าทำไมสามารถจึงเหมาะสมสำหรับการนำมาใช้ในกรณีที่ชุดข้อมูลมีน้อย สร้างความหลากหลายให้กับชุดข้อมูลอย่างไร รวมถึงกระบวนการทำงานเป็นอย่างไร  <a href="Lab13.ipynb"> LAB 13 </a>
-<br>⭐10. สามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0  <a href="Lab13.ipynb"> LAB 13 </a>
-<br>⭐11. สามารถสร้าง วิเคราะห์ ปรับเปลี่ยน ดัดแปลงโมเดลด้วยตนเอง จากบทเรียนก่อนๆ มาประยุกต์ใช้ในการสร้างโมเดลที่ดีที่สุดด้วยตนเองได้ โดยการทำนายจากรูปภาพให้ถูกต้องมากที่สุด <a href="FshionFinal.ipynb"> LAB Final </a>
+<h2 style="text-indent: 2em; text-decoration: underline;">ทักษะและความรู้ที่ได้รับ</h2>
+1. สามารถใช้คำสั่งในการตรวจสอบชุดข้อมูล เช่น จำนวนมิติ รูปแบบคำตอบ จำนวนข้อมูล ชนิดของข้อมูล เพื่อสามารถกำหนดโครงสร้างของโมเดลในการฝึกให้เหมาะสมกับชุดข้อมูล 
+<br><a href="Lab1.ipynb"> LAB 1 </a>
+<br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปโครงสร้างที่โมเดลสามารถอ่านได้ 
+<br><a href="Lab2_1.ipynb"> LAB 2.1 </a>, &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
+<br>3. เข้าใจกระบวนการคิดของโมเดล เช่น weight หมายถึงอะไร การคำนวณของโมเดลมีขั้นตอนอย่างไร 
+<br><a href="Lab3.ipynb"> LAB 3 </a>
+<br>4. ทราบถึงขั้นตอนการสร้างคอมไพรเลอร์ รวมถึงการ train หรือฝึกโมเดล ว่าต้องสังเกตุค่าอะไรบ้าง accuracy กับ loss มีความสำคัญกับการประเมินผลลัพธ์ของโมเดลอย่างไร 
+<br><a href="Lab5.ipynb"> LAB 5 </a>
+<br>5. สามารถแก้ไขปัญหากรณีที่โมเดล Overfitting หรือโมเดลที่เก่งเกินไป รวมถึงการเกิด Underfitting หรือโมเดลที่เล็กเกินไป ทำให้โมเดลเน้นความเข้าใจมากกว่าการจำ
+<br><a href="Lab6.ipynb"> LAB 6 </a>
+<br>6. ใช้เทคนิค K-Fold Cross Validation เพื่อแก้ปัญหาข้อมูล validation ไม่เพียงพอ
+<br><a href="Lab7.ipynb"> LAB 7 </a>
+<br>7. เข้าใจถึงกลไกในการกำหนดจำนวนชั้น จำนวน neuron รวมถึง batch อย่างไรให้เหมาะสมกับชุดข้อมูล เพื่อหลีกเลี่ยงการเกิด Over/Underfitting 
+<br><a href="Lab8.ipynb"> LAB 8 </a>
+<br>8. สามารถใช้งาน CNN สำหรับ image processing และเข้าใจการทำงานของ MaxPooling / Flatten   
+<br><a href="Lab10.ipynb"> LAB 10 </a>
+<br>9. สามารถใช้ Data Augmentation เพื่อเพิ่มความหลากหลายของข้อมูล   
+<br><a href="Lab13.ipynb"> LAB 13 </a>
+<br><br>
+
+<h2 style="text-indent: 2em; text-decoration: underline;">⭐ ไฮไลท์ความสามารถที่ฉันมี</h2>
+<br>10. กอล์ฟสามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0  
+<br><a href="Lab13.ipynb"> LAB 13 </a>
+<br>11. กอล์ฟสามารถสร้าง วิเคราะห์ ปรับเปลี่ยน ดัดแปลงโมเดลด้วยตนเอง จากบทเรียนทั้งหมด มาประยุกต์ใช้ในการสร้างโมเดลที่ดีที่สุดด้วยตนเองได้ โดยการทำนายจากรูปภาพให้ถูกต้องมากที่สุด 
+<br><a href="FshionFinal.ipynb"> LAB Final </a>
 
 <br>
 <br>
@@ -66,9 +79,7 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
 1. ดาวน์โหลดไฟล์ LAB ที่สนใจลงเครื่องของท่าน (ปุ่ม CODE สีเขียว)
-<br>2. เปิดเว็ปเข้าลิงค์ 
-
-[Colab](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
+<br>2. เปิดเว็ปเข้าลิงค์ [Colab](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
 <br>3. เลือกแถบ Upload แล้วเลือกไฟล์ที่ท่านโหลดไว้
 <br>4. กดปุ่ม play เพื่อรันโค้ดทีละส่วน หรือกด Run all เพื่อรันทั้งหมดอัตโนมัติ
 <br><br><br><br>
@@ -106,9 +117,6 @@
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
 1. Download the LAB file you are interested in to your computer (click the green CODE button)
-<br>2. Open the website at 
-
-[Colab](https://colab.research.google.com/)
- (you may need to log in with your Gmail account first)
+<br>2. Open the website at [Colab](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
 <br>3. Go to the Upload tab and select the file you downloaded
 <br>4. Click the Play button to run the code step by step, or click Run all to execute everything automatically
