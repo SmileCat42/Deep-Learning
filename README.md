@@ -30,18 +30,11 @@
 
 <br><br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ทำไมวิชานี้ถึงสำคัญกับฉัน</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;ในยุคที่ AI พัฒนาอย่างรวดเร็ว ฉันมองว่าการเข้าใจ “พฤติกรรมการเรียนรู้ของโมเดล” 
-เป็นทักษะที่สำคัญมาก ไม่ใช่แค่การใช้งาน แต่ต้องเข้าใจว่าทำไมโมเดลถึงตัดสินใจแบบนั้น
-
-วิชานี้ทำให้ฉันได้เรียนรู้วิธีสังเกตและปรับพฤติกรรมของโมเดล 
-ให้เหมาะสมกับปัญหาและชุดข้อมูล เช่น การหลีกเลี่ยง overfitting 
-หรือการทำให้โมเดล “เข้าใจ” แทนที่จะ “จดจำ”
-
-ฉันยังได้ฝึกวิเคราะห์ผลลัพธ์ของโมเดล และปรับโครงสร้าง เช่น 
-จำนวนชั้น (layers) และความซับซ้อน เพื่อให้ได้ performance ที่ดีที่สุด
-
-สิ่งที่ฉันได้จากวิชานี้ ไม่ใช่แค่การสร้างโมเดล 
-แต่คือความสามารถในการ “ปรับปรุงและแก้ปัญหาโมเดล” ด้วยตัวเอง
+&nbsp;&nbsp;&nbsp;&nbsp;ในยุคที่ AI พัฒนาอย่างรวดเร็ว กอล์ฟมองว่าการเข้าใจ “พฤติกรรมการเรียนรู้ของโมเดล” 
+เป็นทักษะที่สำคัญมาก ไม่ใช่แค่การใช้งาน แต่ต้องเข้าใจว่าทำไมโมเดลถึงตัดสินใจแบบนั้น วิชานี้ทำให้กอล์ฟได้เรียนรู้วิธีสังเกตและปรับพฤติกรรมของโมเดล 
+ให้เหมาะสมกับปัญหาและชุดข้อมูล เช่น การหลีกเลี่ยง overfitting หรือการทำให้โมเดล “เข้าใจ” แทนที่จะ “จดจำ”
+กอล์ฟยังได้ฝึกวิเคราะห์ผลลัพธ์ของโมเดล และปรับโครงสร้าง เช่น จำนวนชั้น (layers) และความซับซ้อน เพื่อให้ได้ performance ที่ดีที่สุด
+สิ่งที่กอล์ฟได้จากวิชานี้ ไม่ใช่แค่การสร้างโมเดล แต่คือความสามารถในการ “ปรับปรุงและแก้ปัญหาโมเดล” ด้วยตัวเอง
 <br>
 <br>
 
@@ -82,10 +75,8 @@
 
 <a id="english"></a>
 
-<h2 style="text-indent: 2em; text-decoration: underline;">Project Objective</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;This course focuses on understanding the learning behavior of models. Developers are expected to develop strong observation skills and the ability to adjust a model’s learning behavior to align with the given problem or dataset during training.
-The main objective is to enable the model to make accurate predictions. A key challenge is ensuring that the model avoids memorization and instead develops true understanding, which is the core principle of learning.
-Additionally, the course covers model evaluation and improvement. Modifying or optimizing model structures requires an understanding of model complexity and depth, which forms the foundation of what is known as Deep Learning.
+<h2 style="text-indent: 2em; text-decoration: underline;">Why This Course Matters to Me</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;In an era where AI is rapidly evolving, I believe that understanding how models actually learn is a crucial skill. It is not just about using AI tools, but about understanding the reasoning behind a model’s predictions. This course helped me develop the ability to observe and adjust model behavior to better fit specific problems and datasets. I learned how to prevent issues like overfitting, and how to guide models toward true understanding rather than simple memorization. I also gained experience in analyzing model performance and improving architectures, such as tuning layers and model complexity to achieve better results. What I gained from this course goes beyond building models — it is the ability to analyze, troubleshoot, and continuously improve them in a practical and meaningful way.
 <br>
 <br>
 
