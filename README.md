@@ -138,8 +138,6 @@
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
 1. Download the LAB file you are interested in to your computer (click the green CODE button)<br>
-2. Open the website at 
-
-[![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
+2. Open the website at [![Colab](https://img.shields.io/badge/Tool-Colab-orange?style=plastic)](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
 <br>3. Go to the Upload tab and select the file you downloaded
 <br>4. Click the Play button to run the code step by step, or click Run all to execute everything automatically
