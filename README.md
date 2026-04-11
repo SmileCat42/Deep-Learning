@@ -98,7 +98,9 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
 1. ดาวน์โหลดไฟล์ LAB ที่สนใจลงเครื่องของท่าน (ปุ่ม CODE สีเขียว)
-<br>2. เปิดเว็ปเข้าลิงค์ [![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
+<br>2. เปิดเว็ปเข้าลิงค์ 
+
+[![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
 <br>3. เลือกแถบ Upload แล้วเลือกไฟล์ที่ท่านโหลดไว้
 <br>4. กดปุ่ม play เพื่อรันโค้ดทีละส่วน หรือกด Run all เพื่อรันทั้งหมดอัตโนมัติ
 <br><br><br><br>
@@ -135,7 +137,9 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
-1. Download the LAB file you are interested in to your computer (click the green CODE button)
-<br>2. Open the website at [![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
+1. Download the LAB file you are interested in to your computer (click the green CODE button)<br>
+2. Open the website at 
+
+[![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
 <br>3. Go to the Upload tab and select the file you downloaded
 <br>4. Click the Play button to run the code step by step, or click Run all to execute everything automatically
