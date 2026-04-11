@@ -2,22 +2,23 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-lv2.-green?style=flat">
   <img src="https://img.shields.io/badge/Python-Basics-blue?style=flat&logo=python">
   <img src="https://img.shields.io/badge/Dataset-Keras-purple?style=flat&logo=keras">
-  <img src="https://img.shields.io/badge/Tool-Colab-orange?style=flat&logo=colab">
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Tool-Colab-orange?style=flat&logo=colab">
+  </a>
   <br>
   <a href="#skill">
     <img src="https://img.shields.io/badge/GO%20TO-My%20Skills-silver?style=flat">
   </a>
-  
   <a href="#score">
     <img src="https://img.shields.io/badge/GO%20TO-My%20Grade-silver?style=flat">
   </a>
 </p>
-
+<br><br>
 
 <h1 align="center"><b>Deep-Learning</b></h1>
 <p align="center">
 การเรียนรู้เชิงลึก
-<br><br></p>
+<br><br></p><br>
 
 ![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DL1.png)
 
@@ -97,7 +98,7 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
 1. ดาวน์โหลดไฟล์ LAB ที่สนใจลงเครื่องของท่าน (ปุ่ม CODE สีเขียว)
-<br>2. เปิดเว็ปเข้าลิงค์ [Colab](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
+<br>2. เปิดเว็ปเข้าลิงค์ [![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
 <br>3. เลือกแถบ Upload แล้วเลือกไฟล์ที่ท่านโหลดไว้
 <br>4. กดปุ่ม play เพื่อรันโค้ดทีละส่วน หรือกด Run all เพื่อรันทั้งหมดอัตโนมัติ
 <br><br><br><br>
@@ -135,6 +136,6 @@
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
 1. Download the LAB file you are interested in to your computer (click the green CODE button)
-<br>2. Open the website at [Colab](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
+<br>2. Open the website at [![cplab](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](https://colab.research.google.com/) (you may need to log in with your Gmail account first)
 <br>3. Go to the Upload tab and select the file you downloaded
 <br>4. Click the Play button to run the code step by step, or click Run all to execute everything automatically
