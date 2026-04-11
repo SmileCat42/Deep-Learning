@@ -9,7 +9,6 @@
   <a href="#skill">
     <img src="https://img.shields.io/badge/GO%20TO-My%20Skills-silver?style=flat">
   </a>
-  &nbsp;
   <a href="#score">
     <img src="https://img.shields.io/badge/GO%20TO-My%20Grade-silver?style=flat">
   </a>
