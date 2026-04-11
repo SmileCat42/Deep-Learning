@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GO%20TO-My%20Grade-silver?style=flat">
   </a>
 </p>
-<br><br>
+<br>
 
 <h1 align="center"><b>Deep-Learning</b></h1>
 <p align="center">
