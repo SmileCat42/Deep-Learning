@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-lv2.-green?style=flat">
+  <img src="https://img.shields.io/badge/Python-Basics-blue?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/Dataset-Keras-purple?style=flat&logo=keras">
+  <img src="https://img.shields.io/badge/Tool-Colab-orange?style=flat&logo=colab">
+  <br>
+  <a href="#skill">
+    <img src="https://img.shields.io/badge/GO%20TO-My%20Skills-silver?style=flat">
+  </a>
+  
+  <a href="#score">
+    <img src="https://img.shields.io/badge/GO%20TO-My%20Grade-silver?style=flat">
+  </a>
+</p>
+
+
 <h1 align="center"><b>Deep-Learning</b></h1>
 <p align="center">
 การเรียนรู้เชิงลึก
@@ -59,6 +75,7 @@
 <br><a href="Lab13.ipynb"> LAB 13 </a>
 <br><br>
 
+<a id="skill"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ ไฮไลท์ความสามารถที่ฉันมี</h2>
 10. กอล์ฟสามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0  
 <br><a href="Lab13.ipynb"> LAB 13 </a>
@@ -71,9 +88,10 @@
 📄<a href="Note4312.txt" target="_blank">โน้ต 4312</a>
 <br>
 <br>
+
+<a id="#score"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 📄 <a href="DLScore4.png" target="_blank">กลางภาค</a><br>
-📄 <a href="src/score/score.pdf" target="_blank">ปลายภาค</a>
 <br>
 <br>
 
