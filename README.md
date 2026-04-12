@@ -57,7 +57,7 @@
 <h2 style="text-indent: 2em; text-decoration: underline;">ทักษะและความรู้ที่ได้รับ</h2>
 1. สามารถใช้คำสั่งในการตรวจสอบชุดข้อมูล เช่น จำนวนมิติ รูปแบบคำตอบ จำนวนข้อมูล ชนิดของข้อมูล เพื่อสามารถกำหนดโครงสร้างของโมเดลในการฝึกให้เหมาะสมกับชุดข้อมูล 
 
-<br>[![LAB 1](https://img.shields.io/badge/LAB%201-Check%20Dataset-blue?style=plastic)](./Lab1.ipynb)
+[![LAB 1](https://img.shields.io/badge/LAB%201-Check%20Dataset-blue?style=plastic)](./Lab1.ipynb)
 <br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปโครงสร้างที่โมเดลสามารถอ่านได้ 
 <br>[![LAB 2](https://img.shields.io/badge/LAB%202.1-Dimension-blue?style=plastic)](./Lab2_1.ipynb) [![LAB 2](https://img.shields.io/badge/LAB%202.2-Calculate-blue?style=plastic)](./Lab2_2.ipynb)
 <br>3. เข้าใจกระบวนการคิดของโมเดล เช่น weight หมายถึงอะไร การคำนวณของโมเดลมีขั้นตอนอย่างไร 
