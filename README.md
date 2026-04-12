@@ -69,11 +69,11 @@
 <br>6. ใช้เทคนิค K-Fold Cross Validation เพื่อแก้ปัญหาข้อมูล validation ไม่เพียงพอ
 <br>[![LAB 7](https://img.shields.io/badge/LAB%207-Validation-blue?style=plastic)](./Lab7.ipynb)
 <br>7. เข้าใจถึงกลไกในการกำหนดจำนวนชั้น จำนวน neuron รวมถึง batch อย่างไรให้เหมาะสมกับชุดข้อมูล เพื่อหลีกเลี่ยงการเกิด Over/Underfitting 
-<br>[![LAB 8](https://img.shields.io/badge/LAB%208-Layor%20of%20Neuron-blue?style=plastic)](./Lab8.ipynb)
+[![LAB 8](https://img.shields.io/badge/LAB%208-Layor%20of%20Neuron-blue?style=plastic)](./Lab8.ipynb)
 <br>8. สามารถใช้งาน CNN สำหรับ image processing และเข้าใจการทำงานของ MaxPooling / Flatten   
-<br>[![LAB 10](https://img.shields.io/badge/LAB%2010-CNN-blue?style=plastic)](./Lab10.ipynb)
+[![LAB 10](https://img.shields.io/badge/LAB%2010-CNN-blue?style=plastic)](./Lab10.ipynb)
 <br>9. สามารถใช้ Data Augmentation เพื่อเพิ่มความหลากหลายของข้อมูล   
-<br>[![LAB 13](https://img.shields.io/badge/LAB%2013-Augmentation-blue?style=plastic)](./Lab13.ipynb)
+[![LAB 13](https://img.shields.io/badge/LAB%2013-Augmentation-blue?style=plastic)](./Lab13.ipynb)
 <br><br>
 
 <a id="skill"></a>
