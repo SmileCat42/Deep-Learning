@@ -56,36 +56,39 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ทักษะและความรู้ที่ได้รับ</h2>
 1. สามารถใช้คำสั่งในการตรวจสอบชุดข้อมูล เช่น จำนวนมิติ รูปแบบคำตอบ จำนวนข้อมูล ชนิดของข้อมูล เพื่อสามารถกำหนดโครงสร้างของโมเดลในการฝึกให้เหมาะสมกับชุดข้อมูล 
-<br><a href="Lab1.ipynb"> LAB 1 </a>
+
+<br>[![LAB 1](https://img.shields.io/badge/LAB%201-Check%20Dataset-blue?style=plastic)](./Lab1.ipynb)
 <br>2. เข้าใจความหมายของคำว่า"มิติ"ในโลกของข้อมูลดิจิทัล สามารถดัดแปลงข้อมูลให้อยู่ในรูปโครงสร้างที่โมเดลสามารถอ่านได้ 
-<br><a href="Lab2_1.ipynb"> LAB 2.1 </a>, &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
+<br>[![LAB 2](https://img.shields.io/badge/LAB%202.1-Dimension-blue?style=plastic)](./Lab2_1.ipynb) [![LAB 2](https://img.shields.io/badge/LAB%202.2-Calculate-blue?style=plastic)](./Lab2_2.ipynb)
 <br>3. เข้าใจกระบวนการคิดของโมเดล เช่น weight หมายถึงอะไร การคำนวณของโมเดลมีขั้นตอนอย่างไร 
-<br><a href="Lab3.ipynb"> LAB 3 </a>
+<br>[![LAB 3](https://img.shields.io/badge/LAB%203-Processing-blue?style=plastic)](./Lab3.ipynb)
 <br>4. ทราบถึงขั้นตอนการสร้างคอมไพรเลอร์ รวมถึงการ train หรือฝึกโมเดล ว่าต้องสังเกตุค่าอะไรบ้าง accuracy กับ loss มีความสำคัญกับการประเมินผลลัพธ์ของโมเดลอย่างไร 
-<br><a href="Lab5.ipynb"> LAB 5 </a>
+<br>[![LAB 5](https://img.shields.io/badge/LAB%205-Accuracy&Loss-blue?style=plastic)](./Lab5.ipynb)
 <br>5. สามารถแก้ไขปัญหากรณีที่โมเดล Overfitting หรือโมเดลที่เก่งเกินไป รวมถึงการเกิด Underfitting หรือโมเดลที่เล็กเกินไป ทำให้โมเดลเน้นความเข้าใจมากกว่าการจำ
-<br><a href="Lab6.ipynb"> LAB 6 </a>
+<br>[![LAB 6](https://img.shields.io/badge/LAB%206-Overfitting&Underfitting-blue?style=plastic)](./lab6.ipynb)
 <br>6. ใช้เทคนิค K-Fold Cross Validation เพื่อแก้ปัญหาข้อมูล validation ไม่เพียงพอ
-<br><a href="Lab7.ipynb"> LAB 7 </a>
+<br>[![LAB 7](https://img.shields.io/badge/LAB%207-Validation-blue?style=plastic)](./Lab7.ipynb)
 <br>7. เข้าใจถึงกลไกในการกำหนดจำนวนชั้น จำนวน neuron รวมถึง batch อย่างไรให้เหมาะสมกับชุดข้อมูล เพื่อหลีกเลี่ยงการเกิด Over/Underfitting 
-<br><a href="Lab8.ipynb"> LAB 8 </a>
+<br>[![LAB 8](https://img.shields.io/badge/LAB%208-Layor%20of%20Neuron-blue?style=plastic)](./Lab8.ipynb)
 <br>8. สามารถใช้งาน CNN สำหรับ image processing และเข้าใจการทำงานของ MaxPooling / Flatten   
-<br><a href="Lab10.ipynb"> LAB 10 </a>
+<br>[![LAB 10](https://img.shields.io/badge/LAB%2010-CNN-blue?style=plastic)](./Lab10.ipynb)
 <br>9. สามารถใช้ Data Augmentation เพื่อเพิ่มความหลากหลายของข้อมูล   
-<br><a href="Lab13.ipynb"> LAB 13 </a>
+<br>[![LAB 13](https://img.shields.io/badge/LAB%2013-Augmentation-blue?style=plastic)](./Lab13.ipynb)
 <br><br>
 
 <a id="skill"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ ไฮไลท์ความสามารถที่ฉันมี</h2>
-10. กอล์ฟสามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0  
-<br><a href="Lab13.ipynb"> LAB 13 </a>
+10. กอล์ฟสามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0 
+
+<br>[![LAB 13](https://img.shields.io/badge/LAB%2013-Pretrain-orange?style=plastic)](./Lab13.ipynb)
 <br>11. กอล์ฟสามารถสร้าง วิเคราะห์ ปรับเปลี่ยน ดัดแปลงโมเดลด้วยตนเอง จากบทเรียนทั้งหมด มาประยุกต์ใช้ในการสร้างโมเดลที่ดีที่สุดด้วยตนเองได้ โดยการทำนายจากรูปภาพให้ถูกต้องมากที่สุด 
-<br><a href="FshionFinal.ipynb"> LAB Final </a>
+<br>[![LAB Final](https://img.shields.io/badge/LAB%20Final-Building-orange?style=plastic)](./FshionFinal.ipynb)
 
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
-📄<a href="Note4312.txt" target="_blank">โน้ต 4312</a>
+
+[![LAB 1 - Subnetting](https://img.shields.io/badge/📄%20My%20Note-4312-pink?style=for-the-badge)](./Note4312.txt)
 <br>
 <br>
 
@@ -112,22 +115,25 @@
 <br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Content Received</h2>
-1. Understand basic commands for inspecting datasets, including dimensions, label formats, data size, and data types, in order to design appropriate model structures <a href="Lab1.ipynb"> LAB 1 </a>
-<br>2. Understand the concept of “dimensions” in digital data and be able to transform data into vectors or formats that models can process <a href="Lab2_1.ipynb"> LAB 2.1 </a> &nbsp; <a href="Lab2_2.ipynb"> LAB 2.2 </a>
-<br>3. Understand the fundamentals of Deep Learning, including model structure, the meaning of weights, and how computations are performed within a model <a href="Lab3.ipynb"> LAB 3 </a>
-<br>4. Learn the process of model compilation and training, including how to monitor key metrics such as accuracy and loss, and understand their importance in evaluating model performance <a href="Lab5.ipynb"> LAB 5 </a>
-<br>5. Understand the problems of overfitting (memorization over understanding) and underfitting (insufficient model capacity), and how they affect prediction performance <a href="Lab6.ipynb"> LAB 6 </a>
-<br>6. Be able to address insufficient validation data using techniques such as K-fold cross-validation <a href="Lab7.ipynb"> LAB 7 </a>
-<br>7. Understand how to appropriately configure the number of layers, neurons, and batch sizes to avoid overfitting and underfitting <a href="Lab8.ipynb"> LAB 8 </a>
-<br>8. Understand how CNNs, Max Pooling, and Flatten layers work, and why they are particularly effective for image-based tasks compared to traditional methods  <a href="Lab10.ipynb"> LAB 10 </a>
-<br>9. Understand data augmentation, why it is useful for small datasets, and how it increases data diversity  <a href="Lab13.ipynb"> LAB 13 </a>
-<br>⭐10. Be able to utilize pre-trained models and apply them to new tasks without training from scratch  <a href="Lab13.ipynb"> LAB 13 </a>
-<br>⭐11. Be able to design, analyze, and optimize models independently by applying knowledge from previous lessons, especially for image classification tasks in the final project <a href="FshionFinal.ipynb"> LAB Final </a>
+1. Understand basic commands for inspecting datasets, including dimensions, label formats, data size, and data types, in order to design appropriate model structures 
+
+[![LAB 1](https://img.shields.io/badge/LAB%201-Check%20Dataset-blue?style=plastic)](./Lab1.ipynb)
+<br>2. Understand the concept of “dimensions” in digital data and be able to transform data into vectors or formats that models can process [![LAB 2](https://img.shields.io/badge/LAB%202.1-Dimension-blue?style=plastic)](./Lab2_1.ipynb) [![LAB 2](https://img.shields.io/badge/LAB%202.2-Calculate-blue?style=plastic)](./Lab2_2.ipynb)
+<br>3. Understand the fundamentals of Deep Learning, including model structure, the meaning of weights, and how computations are performed within a model [![LAB 3](https://img.shields.io/badge/LAB%203-Processing-blue?style=plastic)](./Lab3.ipynb)
+<br>4. Learn the process of model compilation and training, including how to monitor key metrics such as accuracy and loss, and understand their importance in evaluating model performance [![LAB 5](https://img.shields.io/badge/LAB%205-Accuracy&Loss-blue?style=plastic)](./Lab5.ipynb)
+<br>5. Understand the problems of overfitting (memorization over understanding) and underfitting (insufficient model capacity), and how they affect prediction performance [![LAB 6](https://img.shields.io/badge/LAB%206-Overfitting&Underfitting-blue?style=plastic)](./lab6.ipynb)
+<br>6. Be able to address insufficient validation data using techniques such as K-fold cross-validation [![LAB 7](https://img.shields.io/badge/LAB%207-Validation-blue?style=plastic)](./Lab7.ipynb)
+<br>7. Understand how to appropriately configure the number of layers, neurons, and batch sizes to avoid overfitting and underfitting [![LAB 8](https://img.shields.io/badge/LAB%208-Layor%20of%20Neuron-blue?style=plastic)](./Lab8.ipynb)
+<br>8. Understand how CNNs, Max Pooling, and Flatten layers work, and why they are particularly effective for image-based tasks compared to traditional methods [![LAB 10](https://img.shields.io/badge/LAB%2010-CNN-blue?style=plastic)](./Lab10.ipynb)
+<br>9. Understand data augmentation, why it is useful for small datasets, and how it increases data diversity [![LAB 13](https://img.shields.io/badge/LAB%2013-Augmentation-blue?style=plastic)](./Lab13.ipynb)
+<br>⭐10. Be able to utilize pre-trained models and apply them to new tasks without training from scratch  [![LAB 13](https://img.shields.io/badge/LAB%2013-Pretrain-orange?style=plastic)](./Lab13.ipynb)
+<br>⭐11. Be able to design, analyze, and optimize models independently by applying knowledge from previous lessons, especially for image classification tasks in the final project [![LAB Final](https://img.shields.io/badge/LAB%20Final-Building-orange?style=plastic)](./FshionFinal.ipynb)
 
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Note lecture</h2>
-📄<a href="Note4312.txt" target="_blank">Note 4312</a>
+
+[![LAB 1 - Subnetting](https://img.shields.io/badge/📄%20My%20Note-4312-pink?style=for-the-badge)](./Note4312.txt)
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
