@@ -80,7 +80,7 @@
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ ไฮไลท์ความสามารถที่ฉันมี</h2>
 10. กอล์ฟสามารถเรียกโมเดลตัวดังที่ผ่านการเทรนอย่างหนักมาแล้ว (Pretrain) มาใช้งานกับงานของตนเองได้ โดยที่ไม่ต้องเริ่มต้นจาก 0 
 
-<br>[![LAB 13](https://img.shields.io/badge/LAB%2013-Pretrain-orange?style=plastic)](./Lab13.ipynb)
+[![LAB 13](https://img.shields.io/badge/LAB%2013-Pretrain-orange?style=plastic)](./Lab13.ipynb)
 <br>11. กอล์ฟสามารถสร้าง วิเคราะห์ ปรับเปลี่ยน ดัดแปลงโมเดลด้วยตนเอง จากบทเรียนทั้งหมด มาประยุกต์ใช้ในการสร้างโมเดลที่ดีที่สุดด้วยตนเองได้ โดยการทำนายจากรูปภาพให้ถูกต้องมากที่สุด 
 <br>[![LAB Final](https://img.shields.io/badge/LAB%20Final-Building-orange?style=plastic)](./FshionFinal.ipynb)
 
